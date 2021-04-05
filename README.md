@@ -24,7 +24,7 @@ The file is in the **database** folder and it is called **products.sql**
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=products
+DB_DATABASE=projects
 .
 .
 .
