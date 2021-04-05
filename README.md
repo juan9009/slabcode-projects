@@ -1,12 +1,12 @@
-## About Bavaria - Products
+## About Slab Code - Projects
 
-It is a technical test for the process of linking to the Bavaria company
+It is a technical test for the process of linking to the Slab Code company
 
 ## Steps to install it
 
 ### Clone the Repository
 ```
-git clone https://bitbucket.org/juanleal/bavaria-products.git
+git clone https://github.com/juan9009/slabcode-projects.git
 ```
 
 ### Run composer install from the project root
