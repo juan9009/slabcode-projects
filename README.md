@@ -16,7 +16,7 @@ composer install
 
 ### Upload the database (this could have been done with migrations)
 
-The file is in the **database** folder and it is called **products.sql**
+The file is in the **database** folder and it is called **proyectos.sql**
 
 
 ### Configure your .env file for database connection
