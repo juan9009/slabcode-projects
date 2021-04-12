@@ -47,4 +47,4 @@ http://127.0.0.1:8000/api/docs
 [APIS's Doc](http://127.0.0.1:8000/api/docs)
 
 ## Postman APIS Collection
-[Download](https://www.getpostman.com/collections/ba13b93af928e293ec5e)
+[Download](https://www.getpostman.com/collections/826911b25bacddaad02b)
